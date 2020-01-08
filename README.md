@@ -2,4 +2,4 @@
 ![](https://raw.githubusercontent.com/ucalyptus/EarthEngine-Deep-Learning/master/Screenshot%20from%202019-09-26%2019-49-48.png)
 
 [View Slides](http://ucalyptus.github.io/EarthEngine-Deep-Learning/index.slides.html)
-## Please :star: the [Repo](https://github.com/ucalyptus/EarthEngine-Deep-Learning) if you liked it.
+## Please star the [Repo](https://github.com/ucalyptus/EarthEngine-Deep-Learning) if you liked it.
