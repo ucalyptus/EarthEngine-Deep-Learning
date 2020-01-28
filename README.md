@@ -3,4 +3,4 @@
 
 [View Slides](http://ucalyptus.github.io/EarthEngine-Deep-Learning/index.slides.html)
 ## Please star the [Repo](https://github.com/ucalyptus/EarthEngine-Deep-Learning) if you liked it.
-### Follow me on [Github](github.com/ucalyptus/)
+### Follow me on [Github](https://github.com/ucalyptus/)
