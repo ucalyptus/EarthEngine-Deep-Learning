@@ -1,6 +1,6 @@
 # EarthEngine-Deep-Learning 
 
-[Source Code](http://ucalyptus.github.io/EarthEngine-Deep-Learning/index.slides.html)
+## [Source Code](http://ucalyptus.github.io/EarthEngine-Deep-Learning/index.slides.html)
 ![](https://raw.githubusercontent.com/ucalyptus/EarthEngine-Deep-Learning/master/Screenshot%20from%202019-09-26%2019-49-48.png)
 ## Cite this repository if you use this for academic purposes.
 ```
